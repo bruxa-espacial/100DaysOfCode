@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=Goudy+Bookletter+1911&family=Red+Hat+Display&display=swap');
+
+body{
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+header {
+    line-height: 1px;
+}
+
+article{
+    
+}
+
+h2{
+    font-family: 'Estonia', cursive;
+}
+
+h1{
+    font-family: 'Red Hat Display', sans-serif;
+}
