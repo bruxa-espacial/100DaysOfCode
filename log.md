@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 1: 18 de novembro de 2021 
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Estou desenvolvendo uma homepage para o meu #100DaysOfCode e comecei a estudar python.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Aprendizados:** Eu relembrei o uso de listas em HTML e como configurar a distância entre linhas no CSS. Estou vendo o básico de python também!
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Link do trabalho:** 
 
