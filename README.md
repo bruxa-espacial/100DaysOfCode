@@ -1,16 +1,17 @@
 # Eu estou participando do desafio #100DaysOfCode
 
-## Conteúdo
+* Eu decidi escrever código por pelo menos uma hora durante os proximos 100 dias.
+* Eu decidi participar desse desafio por que eu quero melhorar minhas habilidades de programação e me tornar uma desenvolvedora backend.
+
+## Índice
 
 * [Regras](regras.md)
 * [Log - clique aqui para ver meu progresso](log.md)
 
 
-
 ## Se você decidir participar:
 
 0.  Conheça [o Site Oficial](http://100daysofcode.com/) para o movimento do #100DaysOfCode. Conecte-se com outras pessoas na plataforma de sua escolha a partir dessa lista: www.100DaysOfCode.com/connect
-    Além disso, [aqui](https://www.100daysofcode.com/slack) está um convite para nosso canal de Slack.
 1.  Leia [Participando do #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Dê um fork no repositório principal e dê commit o [Log](log.md), ou a alternativa, o rápido [R1 Log](r1-log.md) (R1 significa Round 1) diariamente. [Exemplo](https://github.com/Kallaway/100-days-kallaway-log).
 3.  **Programe no mínimo uma hora diariamente pelos próximos 100 dias.**
